@@ -33,7 +33,7 @@ Monday 11.00-11.45
 | 23.11.2026  | Mark | single-cell 2: clustering, marker gene DE | marker gene DE | [Model-based dimensionality reduction for single-cell RNA-seq using generalized bilinear models](https://academic.oup.com/biostatistics/article/26/1/kxaf024/8229239) (LM, AR, BU) | [A phylogenetic method to perform genome-wide association studies in microbes that accounts for population structure and recombination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005958) (SH, CM) |
 | 30.11.2026  | Pierre-Luc | hands-on session #3: single-cell RNA-seq | full scRNA-seq pipeline | [Efficient differential expression analysis of large-scale single-cell transcriptomics data using Dreamlet](https://www.nature.com/articles/s41467-026-75680-8) (GK, WR) | [LinDA: linear models for differential abundance analysis of microbiome compositional data](https://pmc.ncbi.nlm.nih.gov/articles/PMC9012043/#Abs1) (KD, JT) |
 | 07.12.2026  | Mark | spatial omics 1 | spatial statistics | [A Bayesian framework for longitudinal EHR and genetic discovery](https://doi.org/10.1038/s41586-026-10780-5) (AG, LB) | X  |
-| 14.12.2026  | Mark | spatial omics 2 | structures, DSP | X | X |
+| 14.12.2026  | Mark | spatial omics 2 | structures, DSP | [Dream: powerful differential expression analysis for repeated measures designs](https://academic.oup.com/bioinformatics/article/37/2/192/5878955) (SS, EG) | X |
 
 
 ## Course material
